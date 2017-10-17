@@ -1,2 +1,0 @@
-# novapoetica.github.io
-website
